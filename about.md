@@ -10,6 +10,6 @@ permalink: /about/
 
 ###Okay, seriously
 
-A true nerd at heart, always fighting the urge to binge watch Firefly while setting up strat in Xcom. Usually work beckons, which is interesting enough to tear me away. I build things and then I tear them down and them maybe I rebuild them again. I <3 pugs and their squishy wrinkles. I walk a lot, talk a little and sleep when I have to.
+A true nerd at heart, always fighting the urge to binge watch Firefly while setting up strat in Xcom. Usually work beckons, which is interesting enough to tear me away. I build things and then I tear them down and maybe (with enough sugar) I rebuild them again. I <3 pugs and their squishy wrinkles. I walk a lot, talk a little and sleep when I have to.
 
 If you like any of my work and wanna chat about it, plenty of links all over the place to track me down.
