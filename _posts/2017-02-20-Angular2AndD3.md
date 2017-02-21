@@ -2,6 +2,7 @@
 layout: post
 title: Angular 2 and D3
 ---
+# WRITING STILL IN PROGRESS. READ AT YOUR OWN RISK
 
 ### Ground Rules
 Alright, so this is my first ever 'technical' blog post. I'm writing, really, to solidify my own learning. So please, please, please correct me if you see an error or an obviously better(however subjective that may be) way of doing things.
