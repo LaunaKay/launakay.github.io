@@ -4,7 +4,7 @@ title: Simple D3 Component
 ---
 # WRITING STILL IN PROGRESS. READ AT YOUR OWN RISK
 
-````
+```
 import { Component, ElementRef, OnInit } from '@angular/core';
 import * as D3 from 'd3';
 
